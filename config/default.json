@@ -1,8 +1,8 @@
 {
     "DATABASE": {
-        "HOST": "localhost",
+        "HOST": "mysql.railway.internal",
         "USER": "root",
-        "PASSWORD": "",
+        "PASSWORD": "mysql.railway.internal",
         "NAME": "railway",
         "PORT": 3306
     }
