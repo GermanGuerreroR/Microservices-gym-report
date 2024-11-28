@@ -3,7 +3,7 @@
         "HOST": "localhost",
         "USER": "root",
         "PASSWORD": "",
-        "NAME": "railway",
+        "NAME": "gym_management_main_service",
         "PORT": 3306
     }
 }
